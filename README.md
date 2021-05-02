@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi 👋, Alec here
+
+![GitHub followers](https://img.shields.io/github/followers/alecmus?logo=GitHub&logoColor=white)
+![GitHub User's stars](https://img.shields.io/github/stars/alecmus?affiliations=OWNER&label=GitHub%20Stars&logo=GitHub&logoColor=white)
+
+I'm a software architect, developer and engineer; the author of the [liblec libraries](https://github.com/alecmus/lecui).
+
+
+### Top Skills
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" height="50" width="50" />
+
+
+
 
 <!--
 **alecmus/alecmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
