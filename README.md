@@ -13,9 +13,9 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
 <table>
   <tbody>
     <tr> <!--Header-->
-      <th>Column1</th>
-      <th>Column2</th>
-      <th>Column3</th>
+      <th>Library</th>
+      <th>Release Info</th>
+      <th>Commit Info</th>
     </tr>
     <tr> <!--lecui row-->
       <td><a href="https://github.com/alecmus/lecui">lecui ui library</a></td>
