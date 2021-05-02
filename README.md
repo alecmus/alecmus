@@ -6,8 +6,8 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
 ![GitHub followers](https://img.shields.io/github/followers/alecmus?logo=GitHub&logoColor=white)
 
 #### Top Competencies
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+<br>
 
 #### Major Projects
 <table>
@@ -52,19 +52,19 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
     </tr>
   </tbody>
 </table>
+<br>
 
 #### Featured Minor Projects
 <a href="https://github.com/alecmus/spotlight_images">spotlight_images</a>
 <br>
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/lecui">
 <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/lecui">
+<br>
 
 #### Trivia
 <a href="https://github.com/alecmus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecmus&theme=light&hide_langs_below=1&hide=c&langs_count=6&layout=compact" />
 </a>
-
-<br>
 
 <!--
 **alecmus/alecmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
