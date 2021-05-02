@@ -1,6 +1,11 @@
 ### Hi 👋, my name is Alec
 
-I'm a software architect, developer and engineer; the author of the [liblec libraries](https://github.com/alecmus/lecui).
+I'm a software architect, developer and engineer; the author of the [liblec libraries](https://github.com/alecmus/liblec).
+
+### Main Active Projects
+1. <a href="https://github.com/alecmus/lecui">lecui ui library</a>
+2. <a href="https://github.com/alecmus/lecnet">lecnet network library</a>
+3. <a href="https://github.com/alecmus/cui">cui framework</a>
 
 ### Top Languages
 
