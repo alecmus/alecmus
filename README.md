@@ -2,19 +2,19 @@
 
 I'm a software architect, developer and engineer; the author of the [liblec libraries](https://github.com/alecmus/liblec).
 
-### Top Languages
+#### My Top Languages
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
 
-### Major Projects
+#### My Major Projects
 1. <a href="https://github.com/alecmus/lecui">lecui ui library</a>
 2. <a href="https://github.com/alecmus/lecnet">lecnet network library</a>
 3. <a href="https://github.com/alecmus/cui">cui framework</a>
 
-### Recent Minor Projects
+#### Featured Minor Projects
 1. <a href="https://github.com/alecmus/spotlight_images">spotlight_images</a>
 
-### Trivia
+#### Trivia
 
 ![GitHub followers](https://img.shields.io/github/followers/alecmus?logo=GitHub&logoColor=white)
 ![GitHub User's stars](https://img.shields.io/github/stars/alecmus?affiliations=OWNER&label=GitHub%20Stars&logo=GitHub&logoColor=white)
