@@ -54,7 +54,7 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
 </table>
 
 #### Featured Minor Projects
-1. <a href="https://github.com/alecmus/spotlight_images">spotlight_images</a>
+1. <a href="https://github.com/alecmus/spotlight_images">spotlight_images</a><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/lecui"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/lecui">
 
 #### Trivia
 <a href="https://github.com/alecmus">
