@@ -10,11 +10,48 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
 
 #### Major Projects
-Library            | Statistics
---------------- | ------------------------------------
-<a href="https://github.com/alecmus/lecui">lecui ui library</a>           | ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/alecmus/lecui?color=green&label=commits&logo=Github&logoColor=white)
-<a href="https://github.com/alecmus/lecnet">lecnet network library</a>    | ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/alecmus/lecnet?color=green&label=commits&logo=Github&logoColor=white)
-<a href="https://github.com/alecmus/cui">cui framework</a>                | ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/alecmus/cui?color=green&label=commits&logo=Github&logoColor=white)
+<table>
+  <tbody>
+    <tr> <!--Header-->
+      <th>Column1</th>
+      <th>Column2</th>
+      <th>Column3</th>
+    </tr>
+    <tr> <!--lecui row-->
+      <td><a href="https://github.com/alecmus/lecui">lecui ui library</a></td>
+      <td>
+        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/lecui">
+        <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/lecui">
+      </td>
+      <td>
+        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alecmus/lecui">
+        <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/alecmus/lecui">
+      </td>
+    </tr>
+    <tr> <!--lecnet row-->
+      <td><a href="https://github.com/alecmus/lecnet">lecnet network library</a></td>
+      <td>
+        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/lecnet">
+        <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/lecnet">
+      </td>
+      <td>
+        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alecmus/lecnet">
+        <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/alecmus/lecnet">
+      </td>
+    </tr>
+    <tr> <!--cui row-->
+      <td><a href="https://github.com/alecmus/cui">cui framework</a></td>
+      <td>
+        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/cui">
+        <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/cui">
+      </td>
+      <td>
+        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alecmus/cui">
+        <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/alecmus/cui">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 1. <a href="https://github.com/alecmus/lecui">lecui ui library</a>
 2. <a href="https://github.com/alecmus/lecnet">lecnet network library</a>
