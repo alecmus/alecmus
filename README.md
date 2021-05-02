@@ -15,10 +15,15 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
 1. <a href="https://github.com/alecmus/spotlight_images">spotlight_images</a>
 
 #### Trivia
-
-![GitHub followers](https://img.shields.io/github/followers/alecmus?logo=GitHub&logoColor=white)
 ![GitHub User's stars](https://img.shields.io/github/stars/alecmus?affiliations=OWNER&label=GitHub%20Stars&logo=GitHub&logoColor=white)
+![GitHub followers](https://img.shields.io/github/followers/alecmus?logo=GitHub&logoColor=white)
 
+#### Other Stats
+<a href="https://github.com/alecmus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecmus&theme=light&hide_langs_below=1" />
+</a>
+
+<br>
 
 
 
