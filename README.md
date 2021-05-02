@@ -2,11 +2,17 @@
 
 I'm a software architect, developer and engineer; the author of the [liblec libraries](https://github.com/alecmus/liblec).
 
-#### My Top Languages
+#### Top Competencies
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
 
-#### My Major Projects
+#### Major Projects
+Library            | Statistics
+--------------- | ------------------------------------
+<a href="https://github.com/alecmus/lecui">lecui ui library</a>           | ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/alecmus/lecui?color=green&label=commits&logo=Github&logoColor=white)
+<a href="https://github.com/alecmus/lecnet">lecnet network library</a>    | ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/alecmus/lecnet?color=green&label=commits&logo=Github&logoColor=white)
+<a href="https://github.com/alecmus/cui">cui framework</a>                | ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/alecmus/cui?color=green&label=commits&logo=Github&logoColor=white)
+
 1. <a href="https://github.com/alecmus/lecui">lecui ui library</a>
 2. <a href="https://github.com/alecmus/lecnet">lecnet network library</a>
 3. <a href="https://github.com/alecmus/cui">cui framework</a>
@@ -20,12 +26,10 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
 
 #### Other Stats
 <a href="https://github.com/alecmus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecmus&theme=light&hide_langs_below=1&hide=c,html&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecmus&theme=light&hide_langs_below=1&hide=c&langs_count=6&layout=compact" />
 </a>
 
 <br>
-
-
 
 <!--
 **alecmus/alecmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
