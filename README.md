@@ -53,10 +53,6 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
   </tbody>
 </table>
 
-1. <a href="https://github.com/alecmus/lecui">lecui ui library</a>
-2. <a href="https://github.com/alecmus/lecnet">lecnet network library</a>
-3. <a href="https://github.com/alecmus/cui">cui framework</a>
-
 #### Featured Minor Projects
 1. <a href="https://github.com/alecmus/spotlight_images">spotlight_images</a>
 
