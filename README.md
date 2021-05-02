@@ -20,7 +20,7 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
 
 #### Other Stats
 <a href="https://github.com/alecmus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecmus&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecmus&theme=light&hide_langs_below=1&hide=c,html&langs_count=5" />
 </a>
 
 <br>
