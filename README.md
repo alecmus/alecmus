@@ -22,6 +22,7 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
       <td>
         <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/lecui">
         <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/lecui">
+        <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/alecmus/lecui/total">
       </td>
       <td>
         <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alecmus/lecui">
@@ -33,6 +34,7 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
       <td>
         <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/lecnet">
         <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/lecnet">
+        <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/alecmus/lecnet/total">
       </td>
       <td>
         <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alecmus/lecnet">
@@ -44,6 +46,7 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
       <td>
         <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/cui">
         <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/cui">
+        <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/alecmus/cui/total">
       </td>
       <td>
         <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alecmus/cui">
@@ -52,13 +55,13 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
     </tr>
   </tbody>
 </table>
-<br>
 
 #### Featured Minor Projects
 <a href="https://github.com/alecmus/spotlight_images">spotlight_images</a>
 <br>
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/lecui">
-<img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/lecui">
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/spotlight_images">
+<img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/spotlight_images">
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/alecmus/spotlight_images/total">
 <br>
 
 #### Trivia
