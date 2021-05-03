@@ -10,51 +10,29 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
 <br>
 
 #### Major Projects
-<table>
-  <tbody>
-    <tr> <!--Header-->
-      <th>Library</th>
-      <th>Release Info</th>
-      <th>Commit Info</th>
-    </tr>
-    <tr> <!--lecui row-->
-      <td><a href="https://github.com/alecmus/lecui">lecui ui library</a></td>
-      <td>
-        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/lecui">
-        <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/lecui">
-        <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/alecmus/lecui/total">
-      </td>
-      <td>
-        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alecmus/lecui">
-        <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/alecmus/lecui">
-      </td>
-    </tr>
-    <tr> <!--lecnet row-->
-      <td><a href="https://github.com/alecmus/lecnet">lecnet network library</a></td>
-      <td>
-        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/lecnet">
-        <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/lecnet">
-        <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/alecmus/lecnet/total">
-      </td>
-      <td>
-        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alecmus/lecnet">
-        <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/alecmus/lecnet">
-      </td>
-    </tr>
-    <tr> <!--cui row-->
-      <td><a href="https://github.com/alecmus/cui">cui framework</a></td>
-      <td>
-        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/cui">
-        <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/cui">
-        <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/alecmus/cui/total">
-      </td>
-      <td>
-        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alecmus/cui">
-        <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/alecmus/cui">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p>
+  <a href="https://github.com/alecmus/lecui">lecui ui library</a>
+  <br>
+  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/lecui">
+  <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/lecui">
+  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/alecmus/lecui/total">
+</p>
+
+<p>
+  <a href="https://github.com/alecmus/lecnet">lecnet network library</a>
+  <br>
+  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/lecnet">
+  <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/lecnet">
+  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/alecmus/lecnet/total">
+</p>
+
+<p>
+  <a href="https://github.com/alecmus/cui">cui framework</a>
+  <br>
+  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/cui">
+  <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/cui">
+  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/alecmus/cui/total">
+</p>
 
 #### Featured Minor Projects
 <a href="https://github.com/alecmus/spotlight_images">spotlight_images</a>
