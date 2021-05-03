@@ -2,7 +2,7 @@
 
 I'm a software architect, developer and engineer; the author of the [liblec libraries](https://github.com/alecmus/liblec).
 
-![GitHub User's stars](https://img.shields.io/github/stars/alecmus?affiliations=OWNER&label=GitHub%20Stars&logo=GitHub&logoColor=white)
+![GitHub User's stars](https://img.shields.io/github/stars/alecmus?affiliations=OWNER&logo=GitHub&logoColor=white)
 ![GitHub followers](https://img.shields.io/github/followers/alecmus?logo=GitHub&logoColor=white)
 
 #### Top Competencies
