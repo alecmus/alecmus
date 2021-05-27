@@ -11,7 +11,15 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
 
 #### Major Projects
 <p>
-  <a href="https://github.com/alecmus/lecui">lecui ui library</a>
+  <a href="https://github.com/alecmus/leccore">leccore</a> - liblec core library
+  <br>
+  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/leccore">
+  <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/leccore">
+  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/alecmus/leccore/total">
+</p>
+
+<p>
+  <a href="https://github.com/alecmus/lecui">lecui</a> - liblec ui library
   <br>
   <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/lecui">
   <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/lecui">
@@ -19,7 +27,7 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
 </p>
 
 <p>
-  <a href="https://github.com/alecmus/lecnet">lecnet network library</a>
+  <a href="https://github.com/alecmus/lecnet">lecnet</a> - liblec network library
   <br>
   <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/lecnet">
   <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/lecnet">
@@ -27,7 +35,7 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
 </p>
 
 <p>
-  <a href="https://github.com/alecmus/cui">cui framework</a>
+  <a href="https://github.com/alecmus/cui">cui framework</a> - liblec legacy ui library
   <br>
   <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/cui">
   <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/cui">
