@@ -15,7 +15,6 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
   <br>
   <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/leccore">
   <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/leccore">
-  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/alecmus/leccore/total">
 </p>
 
 <p>
@@ -23,7 +22,6 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
   <br>
   <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/lecui">
   <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/lecui">
-  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/alecmus/lecui/total">
 </p>
 
 <p>
@@ -31,7 +29,6 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
   <br>
   <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/lecnet">
   <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/lecnet">
-  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/alecmus/lecnet/total">
 </p>
 
 <p>
@@ -39,7 +36,6 @@ I'm a software architect, developer and engineer; the author of the [liblec libr
   <br>
   <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alecmus/cui">
   <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alecmus/cui">
-  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/alecmus/cui/total">
 </p>
 
 #### Featured Minor Projects
