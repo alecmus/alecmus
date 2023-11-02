@@ -1,6 +1,6 @@
 ### Hi 👋, my name is Alec
 
-I'm a software developer and an Oracle Certified Professional; the author of the [liblec libraries](https://github.com/alecmus/liblec).
+I'm a software developer; the author of the [liblec libraries](https://github.com/alecmus/liblec). I am an Oracle and VMware Spring Certified Professional.
 
 ![GitHub User's stars](https://img.shields.io/github/stars/alecmus?affiliations=OWNER&logo=GitHub&logoColor=white)
 ![GitHub followers](https://img.shields.io/github/followers/alecmus?logo=GitHub&logoColor=white)
